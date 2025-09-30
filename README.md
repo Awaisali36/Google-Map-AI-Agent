@@ -10,6 +10,12 @@
 Simply chat with the AI: "Find me 100 dental clinics in Los Angeles" and watch it automatically scrape, enrich, and organize leads into Google Sheets.
 
 ---
+ <p align="center">
+  <img src="n8n%20workflow%20images/Screenshot%202025-08-30%20at%206.55.48%E2%80%AFPM.png" alt="Workflow 1" width="400">
+  <img src="n8n%20workflow%20images/workflow2.png" alt="Workflow 2" width="400">
+</p>
+
+
 
 ## 📋 Table of Contents
 
