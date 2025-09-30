@@ -11,8 +11,12 @@ Simply chat with the AI: "Find me 100 dental clinics in Los Angeles" and watch i
 
 ---
  <p align="center">
-  <img src="n8n%20workflow%20images/Screenshot%202025-08-30%20at%206.55.48%E2%80%AFPM.png" alt="Workflow 1" width="600">
-  <img src="n8n%20workflow%20images/Screenshot%202025-08-30%20at%206.53.58%E2%80%AFPM.png" alt="Workflow 2" width="600">
+  <img src="n8n%20workflow%20images/Screenshot%202025-08-30%20at%206.55.48%E2%80%AFPM.png" alt="Workflow 1" width="800">
+  
+  <img src="n8n%20workflow%20images/Screenshot%202025-08-30%20at%206.53.58%E2%80%AFPM.png" alt="Workflow 2" width="800">
+
+  <img src="n8n%20workflow%20images/Screenshot%202025-08-30%20at%206.54.14%E2%80%AFPM.png" alt="Workflow 2" width="800">
+
 </p>
 
 
