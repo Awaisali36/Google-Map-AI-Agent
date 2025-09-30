@@ -1,0 +1,26 @@
+# API Keys
+.env
+.env.local
+**/*key*
+**/*token*
+**/*secret*
+
+# n8n credentials
+**/credentials.json
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Output files
+*.csv
+*.xlsx
+exports/
